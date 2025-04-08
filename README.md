@@ -1,5 +1,5 @@
 ## 📌 Project Overview  
-This project showcases a **Power BI dashboard** built using a public dataset simulating **OLA’s ride data from 2023** (~70,000 rows). The objective is to derive key business insights and patterns using interactive visuals, with a focus on **revenue, cancellations, ride types and payment methods**.
+This project showcases a **Power BI dashboard** built using a public dataset simulating **OLA’s ride data from 2023** (~70,000 rows). The objective is to derive key business insights and patterns using interactive visuals, with a focus on revenue, cancellations, ride types and payment methods.
 
 ---
 
