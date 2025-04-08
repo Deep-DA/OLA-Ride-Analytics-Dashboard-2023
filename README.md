@@ -4,7 +4,7 @@ This project showcases a **Power BI dashboard** built using a public dataset sim
 ---
 
 ## 🎯 Project Objectives  
-- Analyze monthly and city-level ride distribution  
+- Analyze monthly booked rides
 - Evaluate ride types (Mini, Prime Sedan, Prime SUV, Prime Plus, eBike, Bike, Auto) and their revenue  
 - Top 5 revenue generated months
 - Highlight cancellation rates 
