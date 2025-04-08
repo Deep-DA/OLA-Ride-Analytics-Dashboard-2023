@@ -25,7 +25,7 @@ This project showcases a **Power BI dashboard** built using a public dataset sim
 - 💳 **Top Payment Method:** Cash  
 - 💡 **Most Successful rides:** August 
 - 🕒 **Percentage of successful bookings:** 62%  
-- 📈 **Revenue Trend:** Upward growth in Q2 and Q3
+- 📈 **Revenue Trend:** Upward growth in Q3 and Q4
 - ⚠️ **Cancellation Rate:** 28%
 
 > 🧠 Dashboard built entirely from scratch — no design copied from the source.
